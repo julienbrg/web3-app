@@ -2,5 +2,9 @@
 $body-bg: #000;
 $body-color: #0d6efd;
 
+.App {
+    margin: 80px;
+  }
+
 // Import Bootstrap and its default variables
 @import '~bootstrap/scss/bootstrap.scss';
